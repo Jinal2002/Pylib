@@ -1,0 +1,3 @@
+Exe1 contain list_optn file in which list operation i have perform for practice.
+The list operation are : create_list, add item to the list, delete item from the list, concate two list etc... 
+You can go through this file to know what operation can be perform on list.
